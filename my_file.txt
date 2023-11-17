@@ -1,5 +1,10 @@
-text
-text
-text
-text
-text
+"Abyssinian"
+"Aegean"
+"American Curl"
+"American Bobtail"
+"American Shorthair"
+"American Wirehair"
+"Arabian Mau"
+"Australian Mist"
+"Asian"
+"Asian Semi-longhair"
